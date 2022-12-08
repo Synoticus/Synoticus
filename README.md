@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Synoticus</h1>
 <h2 align="center"><a href="https://synoticus.ro"><img src="https://cdn.discordapp.com/attachments/1031208872809070685/1043899184174071828/Synoticus.png" style="width: 200px; height: 200px;"></a></h2>
 <h1 align="center">Discord Status:</h1>
-<h3><a href="https://discord.com/users/875511774592524289"><p align="center"><img src="https://lanyard.cnrad.dev/api/875511774592524289" align="center"></p></a></h3>
+<h3><a href="https://discord.com/users/875511774592524289"><p align="center"><img src="https://lanyard.cnrad.dev/api/875511774592524289?hideTimestamp=true&hideDiscrim=true&idleMessage=I%20am%20inactive%20right%20now%20on%20discord!&bg=1f5135" align="center"></p></a></h3>
 <h3 align="center">I am passionate about the world of IT, programming, networking and I try to be better every day!</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=synoticus" alt="synoticus" /></a> </p>
