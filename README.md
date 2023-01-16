@@ -23,3 +23,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=synoticus&show_icons=true&theme=dark&locale=en&layout=compact" alt="synoticus" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=synoticus&show_icons=true&theme=dark&locale=en" alt="synoticus" /></p>
+<br>
+<h1 align="center">Discord Status:</h1>
+<h3><a href="https://discord.com/users/875511774592524289"><p align="center"><img src="https://lanyard.cnrad.dev/api/875511774592524289?theme=dark&idleMessage=I'm%20currently%20inactive,%20come%20back%20in%20a%20while!&animated=true&hideBadges=false&hideProfile=false&hideStatus=false" align="center"></p></a></h3>
