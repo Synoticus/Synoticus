@@ -26,3 +26,5 @@
 <br>
 <h1 align="center">Discord Status:</h1>
 <h3><a href="https://discord.com/users/875511774592524289"><p align="center"><img src="https://lanyard.cnrad.dev/api/875511774592524289?theme=dark&idleMessage=I'm%20currently%20inactive,%20come%20back%20in%20a%20while!&animated=true&hideBadges=false&hideProfile=false&hideStatus=false" align="center"></p></a></h3>
+<h2 align="center">Discord Server</h2>
+<a href="https://discord.gg/6p3E3H8EFq"><img src="https://dcbadge.vercel.app/api/server/6p3E3H8EFq" /></a>
