@@ -14,7 +14,7 @@
 <a href="https://stackoverflow.com/users/19175480/synoticus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="synoticus" height="30" width="40" /></a>
 <a href="https://instagram.com/synoticus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="synoticus" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@synoticus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="synoticus" height="30" width="40" /></a>
-<a href="https://discord.gg/6p3E3H8EFq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6p3E3H8EFq" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6p3E3H8EFq" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,6 +25,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=synoticus&show_icons=true&theme=dark&locale=en" alt="synoticus" /></p>
 <br>
 <h1 align="center">Discord Status:</h1>
-<h3><a href="https://discord.com/users/875511774592524289"><p align="center"><img src="https://lanyard.cnrad.dev/api/875511774592524289?theme=dark&idleMessage=I'm%20currently%20inactive,%20come%20back%20in%20a%20while!&animated=true&hideBadges=false&hideProfile=false&hideStatus=false" align="center"></p></a></h3>
+<h3><a href="https://discord.com/users/1107653046676226159"><p align="center"><img src="https://lanyard.cnrad.dev/api/1107653046676226159?theme=dark&idleMessage=I'm%20currently%20inactive,%20come%20back%20in%20a%20while!&animated=true&hideBadges=false&hideProfile=false&hideStatus=false" align="center"></p></a></h3>
 <h2 align="center">Discord Server</h2>
 <h3 align="center"><a href="https://discord.gg/6p3E3H8EFq"><img src="https://dcbadge.vercel.app/api/server/6p3E3H8EFq" /></a></h3>
